@@ -69,7 +69,7 @@ dist/
 .env.test
 .env.production
 
-android
+# android
 ios
 /.vercel/
 
